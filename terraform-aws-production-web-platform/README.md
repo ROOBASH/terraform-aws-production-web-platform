@@ -115,7 +115,7 @@ terraform init -migrate-state
 
 Do not put backend credentials in this file. Use an AWS profile, SSO, or workload identity.
 
-## Resume project description
+## Project description
 
 **Terraform AWS Production-Style Web Platform**
 - Designed and provisioned a multi-AZ AWS network using Terraform modules, public/private subnets, route tables, an Internet Gateway and NAT Gateway.
